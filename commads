@@ -1,0 +1,17 @@
+ls      --  list items
+clear   --  clear the command line
+cd      --  change directory
+cd ..   --  go back one folder
+cd~     --  go to root directory
+
+Files
+
+touch text.txt
+start text.txt
+start atom text.txt
+rm -r text.txt
+
+Folder
+
+mkdir aahel
+rm aahel
