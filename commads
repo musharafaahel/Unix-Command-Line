@@ -3,6 +3,7 @@ clear   --  clear the command line
 cd      --  change directory
 cd ..   --  go back one folder
 cd~     --  go to root directory
+cd folder1/foder2
 
 Files
 
@@ -15,3 +16,4 @@ Folder
 
 mkdir aahel
 rm aahel
+
