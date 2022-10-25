@@ -18,3 +18,9 @@ mkdir aahel
 rm aahel
 pwd - to know current directory
 
+
+node --version
+npm --version
+
+node index.js
+npm install superheroes
